@@ -1,2 +1,2 @@
-# pami-Murillo-Tiberio
-Programação de Aplicações Mobile | com o professor João Siles
+# pami-nicol-condori
+Programação de Aplicativos Mobile I com o professor João Siles
